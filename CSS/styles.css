@@ -74,8 +74,8 @@ header {background-color: #fff;}
     line-height: 24px;
     /* 150% */
     letter-spacing: 0.64px;}
-.hero-button-order:hover {color: #404BBF;}
-.hero-button-order:focus {color: #404BBF;}
+.hero-button-order:hover {background-color: #404BBF;}
+.hero-button-order:focus {background-color: #404BBF;}
 
 .section-skills {background: #FFF;}
 
@@ -137,7 +137,6 @@ header {background-color: #fff;}
     }
 .portfolio-list
 
-.portfolio-item1 {}
 .portfolio-titles {
     color: #2E2F42;
     text-align: center;
@@ -156,12 +155,6 @@ header {background-color: #fff;}
     line-height: 24px;
     /* 150% */
     letter-spacing: 0.32px;}
-
-.portfolio-item2 {}
-.portfolio-item3 {}
-.portfolio-item4 {}
-.portfolio-item5 {}
-.portfolio-item6 {}
 
 .footer {background: #2E2F42}
 
